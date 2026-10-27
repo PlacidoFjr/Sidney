@@ -1,0 +1,11 @@
+# Arquivos locais e dados privados
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+node_modules/
+.DS_Store
+Thumbs.db
+docs/aceite-ideia-site.png
+docs/BRIEF.md
